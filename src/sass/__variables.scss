@@ -5,7 +5,7 @@ $black: #000;
 $box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 $box-shadows: rgba(0, 0, 0, 0.25) 0px 0px 14px 0px;
 
-$header-height: 4rem;
+$header-height: 8em;
 $header-shrink-height: 5rem;
 $border-radius: 30px;
 $mobile-width: 600px;
@@ -87,4 +87,12 @@ textarea {
   overflow: hidden;
   outline: none;
   resize: none;
+}
+
+.main_body {
+
+  padding: 5rem;
+  margin: auto;
+  background-color: #0031df;
+  
 }
