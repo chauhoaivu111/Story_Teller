@@ -63,7 +63,19 @@
           font-size: 0.8rem;
           font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
             "Lucida Sans", Arial, sans-serif;
+            color: gray;
         }
+
+
+        li.active {
+
+            color: black;
+            font-weight: 500g;
+
+            
+        }
+
+
       }
 
       &__mobiles {
